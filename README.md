@@ -1,1 +1,5 @@
 # ConstruccionDeSoftware2SebastianVasquez
+
+
+Sebastián Higuita
+Sebastián Vásquez
