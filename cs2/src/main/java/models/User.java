@@ -7,7 +7,7 @@ public class User {
     private String idIdentification;
     private String email;
     private String phone;
-    private String date;
+    private String birthdate;
     private String adress;
     private String rolSystem;
     private String statusUser;
